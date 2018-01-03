@@ -1,5 +1,5 @@
 {
-    "name": "cviebrock/eloquent-sluggable",
+    "name": "neuroplasticity9/eloquent-sluggable",
     "description": "Easy creation of slugs for your Eloquent models in Laravel 5.",
     "keywords": [
         "eloquent-sluggable",
